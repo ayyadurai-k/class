@@ -1,0 +1,11 @@
+List Methods :
+
+1. append
+2. sort - ascending , descedning 
+3. reverse 
+4. insert
+5. pop
+
+
+Slicing : 
+

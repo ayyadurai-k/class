@@ -1,0 +1,11 @@
+Loop :
+
+Types :  Iterative
+
+1. For - range , in 
+2. While 
+
+
+Jumping Statements : 
+
+1. Break 2.Continue

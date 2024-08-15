@@ -1,0 +1,15 @@
+String Methods :
+
+1.Check  Upper - C
+2.Check  Lower - C
+3. String Length - C
+4. String to small - C
+5. String  to capital - C
+6. Swap - C
+7. Capitalize - C
+8. Concatenation (+)
+
+
+Format :
+
+1. f"" - C

@@ -1,0 +1,7 @@
+
+
+Function - only run when the function call
+Syntax - def
+
+def function_name():
+    statements

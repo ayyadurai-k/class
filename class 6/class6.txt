@@ -1,0 +1,8 @@
+1. Dictionary :
+
+num={ "one" : 1 , "two" : 2 , "three" : 3 }
+print(num["two"])
+
+list , string , tuple ====>>>> index : value 
+
+dictionary ===== > key : value "key-value pair"

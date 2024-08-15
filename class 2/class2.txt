@@ -1,0 +1,64 @@
+name - variable 
+"Yesvanth" - value
+
+
+1. Types :
+
+1. String
+2. Integer
+3. Float
+4. Boolean
+5. Character 
+
+Group of character are String = > "" 
+Number = > 10  => Integer = Age 
+Float => 500.50 
+Boolean = True / False
+Character  = > 'A'
+
+name = "Yesvanth" #STRING
+age = 17 #INETEGER
+height = 5.9 #FLOAT
+college_completed = False #BOOLEAN
+grade = 'B' #CHARACTER
+
+
+
+2. Comment Line :
+
+  Single Line - #
+  Multi Line - """ """
+
+line 1 - ran 
+# line 2 - skip 
+line 3 - ran
+
+
+3. Operations :
+
+Arithmetic Operations : Addition , Subtraction , Multiplication , Division.
+
+num1 = 10
+num2=3
+# ADDITION - 15
+print(num1+num2)
+#SUBTRACTION - 5
+print(num1-num2)
+#MULTIPLICATION - 50
+print(num1*num2)
+#DIVISION - 2
+print(num1/num2) #FLOAT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

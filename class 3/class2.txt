@@ -1,0 +1,14 @@
+Getting Input From User :
+
+    syntax : input()
+
+    Examples:
+         1. input("Enter Your Name : ")
+         2. name = input("Enter Your Name : ")
+         
+ 
+
+String Methods :
+
+1. capitalize
+2. 
