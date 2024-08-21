@@ -1,4 +1,4 @@
-#INHERITANCE
+#INHERITANCE - REUSABILITY
 
 class StudentProfile: # PARENT OR SUPER
     def __init__(self, name, age):
@@ -8,6 +8,8 @@ class StudentProfile: # PARENT OR SUPER
     def display_info(self):
         print("Name : ", self.name)
         print("Age : ", self.age)
+
+
 
 class StudentMarks(StudentProfile): #CHILD OR SUB
     def __init__(self, name, age, marks):
